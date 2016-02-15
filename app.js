@@ -39,7 +39,6 @@ app.get('/points', function(req, res, next) {
   }
 
   function onNext(obj) {
-    delete obj.desc;
     result.push(obj);
   }
 
