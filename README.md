@@ -32,7 +32,7 @@
 
 ![screen2](images/screen2.png)
 
-В режиме списке:
+В режиме списка:
 
 ![screen3](images/screen3.png)
 
